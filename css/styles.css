@@ -1,9 +1,18 @@
+.jumbotron{
+  background-image: url(../img/island.jpg);
+  background-repeat: no-repeat;
+}
+
 .btn-primary {
   background-color: #008080;
 }
 
 .col-md-4 {
   height: 50px;
+}
+
+.content {
+  margin-bottom: 35px;
 }
 
 .red {
@@ -21,4 +30,22 @@
 p {
   color: #fff;
   text-align: center;
+}
+
+content {
+  margin-bottom: 20PX;
+}
+footer {
+  background: #008080;
+}
+
+h3 {
+  font-family: cursive;
+  color: yellow;
+  text-align: center;
+  margin-top: 50px;
+}
+
+iframe {
+  margin: 15px
 }
