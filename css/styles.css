@@ -1,47 +1,74 @@
+/*UNIVERSALS*/
+/*blue = #3b3d57 rgb(59,61,87);
+hunter = #293f23 rgb(41,63,35);
+d. green = #21261f rgb(33,36,31);
+yellow = #f4b603 rgb(244,182,3);
+brown = #594936 rgb(89,73,54);*/
+/*font-family: 'Princess Sofia', cursive;
+font-family: 'Roboto Condensed', sans-serif;*/
+
+body {
+  background-color: #21261f;
+}
+
+.nav_row {
+color: #594936;
+}
+
+li a {
+  color: #f4b603;
+}
+
 .jumbotron{
-  background-image: url(../img/island.jpg);
-  background-repeat: no-repeat;
+  background-image: url(../img/jumbotron.jpg);
+  background-size: cover;
+  height: 500px;
 }
 
-.btn-primary {
-  background-color: #008080;
-}
-
-.col-md-4 {
-  height: 50px;
+h1 {
+  font-family: 'Princess Sofia', cursive;
+  color: #f4b603 !important;
+  margin-left: 72%
 }
 
 .content {
   margin-bottom: 35px;
 }
 
-.red {
-  background-color: red;
-}
-
-.green {
-  background-color: green;
-}
-
-.blue {
-  background-color: blue;
-}
-
 p {
-  color: #fff;
+  color: #f4b603;
   text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 content {
   margin-bottom: 20PX;
 }
+
+.col-md-4 {
+  border: 5px solid #21261f;
+  border-radius: 10px;
+  height: 100px;
+  background-color: #3b3d57;
+  text-align: center;
+}
+
+.btn-default {
+  background-color: #f4b603;
+  color: #3b3d57;
+  text-align: center;
+  padding: 0px 20px;
+  font-size: 30px;
+  margin-top: 24px;
+}
+
 footer {
-  background: #008080;
+  background: #293f23;
 }
 
 h3 {
-  font-family: cursive;
-  color: yellow;
+  font-family: 'Princess Sofia', cursive;
+  color: #f4b603;
   text-align: center;
   margin-top: 50px;
 }
