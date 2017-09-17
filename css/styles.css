@@ -92,7 +92,7 @@ footer {
   background: #293f23;
 }
 
-h3 {
+.home_h3 {
   font-family: 'Princess Sofia', cursive;
   color: #f4b603;
   text-align: center;
@@ -124,3 +124,32 @@ h3 {
 }
 
 /*---FLORALS PAGE---*/
+
+/*---ABOUT PAGE---*/
+.about_content{
+  margin-top: 50px;
+}
+
+.about_h3 {
+  font-family: 'Princess Sofia', cursive;
+  color: #f4b603;
+  font-weight: bold;
+  font-size: 45px;
+  text-align: left;
+}
+h4 {
+  font-family: 'Princess Sofia', cursive;
+  color: #f4b603;
+  font-size: 30px;
+}
+
+.about_text{
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.about_footer {
+  position: absolute;
+  width: 97%;
+  bottom: 0px;
+}
