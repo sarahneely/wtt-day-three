@@ -35,15 +35,14 @@ li a {
 .jumbotron{
   background-image: url(../img/jumbotron.jpg);
   background-size: cover;
-  height: 500px;
-  transition-timing-function: ease-in;
-  transition-duration: 3s;
+  height: 550px;
+  margin-top: 10px
 }
 
 h1 {
   font-family: 'Princess Sofia', cursive;
   color: #f4b603 !important;
-  margin-left: 72%
+  margin-left: 77%
 }
 
 .content {
