@@ -56,7 +56,7 @@ p {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-.col-md-4 {
+.home_col {
   border-radius: 10px;
   height: 100px;
   /*background-color: #3b3d57;*/
@@ -102,4 +102,24 @@ h3 {
 
 .contact_text{
   color: #f4b603;
+}
+
+/*---PASTRIES PAGE---*/
+.pastries_h2{
+  font-family: 'Princess Sofia', cursive;
+  font-weight: bold;
+  color: #f4b603;
+  font-size: 35px;
+}
+
+.pastries_content {
+  height: 350px;
+  width: 390px;
+  margin-top: 30px;
+}
+
+.pastries_text{
+  font-size: 20px;
+  font-weight: bolder;
+  padding-top: 20px;
 }
