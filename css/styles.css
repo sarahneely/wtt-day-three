@@ -101,6 +101,7 @@ footer {
 
 .contact_text{
   color: #f4b603;
+  font-weight: bolder;
 }
 
 /*---PASTRIES PAGE---*/
@@ -157,4 +158,32 @@ h4 {
 /*---CONTACT PAGE---*/
 .contact_h2 {
 
+  font-family: 'Princess Sofia', cursive;
+  color: #f4b603;
+  font-weight: bold;
+  font-size: 45px;
+}
+
+.contact_text2 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #293f23;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.contact_col {
+  padding-top: 70px;
+}
+
+.final_message {
+  font-family: 'Princess Sofia', cursive;
+  color: #293f23;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.contact_footer {
+  position: absolute;
+  width: 97%;
+  bottom: 0px;
 }
